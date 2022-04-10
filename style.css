@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap');
+
+
+.logo{
+    width: 111px;
+    border-radius: 700px;
+    float: right;
+    margin-right: 320px;
+}
+
+li, a, button{
+    font-family: "montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 17px;
+    color: #231791;
+    background-color: rgb(229, 229, 241);
+}
+
+header{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 3px 2%;
+    background-color: rgb(229, 229, 241);
+    border-radius: 500px;
+
+}
+
+.logo{
+    cursor: pointer;
+   
+}
+
+.nav1{
+    list-style: circle;
+    background-color: rgb(229, 229, 241) ;
+    width: 106%;
+}
+
+.nav1 li{
+    display: inline-block;
+    padding: 0px 28px;
+}
+
+.nav1 li a{
+    transition: all 0.3s ease 0s;
+}
+
+.nav1 li a:hover {
+    color: rgb(216, 181, 139);
+}
+
+button{
+    padding: 9px 25px;
+    background-color: rgb(173, 206, 214);
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+    margin-left: 300px;
+}
+
+button:hover{
+    background-color: rgba(45, 142, 167, 0.8);
+}
+
+.v{
+    color: rgb(14, 2, 2);
+    text-decoration: line-through;
+}
+.v1{
+    position: absolute;
+    top: 449px;
+    right: 72px;
+    text-align: center;
+    font-style: italic;
+    text-transform: capitalize; 
+    
+}
+
+.jk{
+    color: rgb(14, 2, 2);
+    text-decoration: line-through;
+}
+.jk1{
+    position: absolute;
+    top: 907px;
+    right: 80px;
+    text-align: center;
+    font-style: italic;
+    text-transform: capitalize; 
+    
+}
+
+.jimin{
+    color: rgb(14, 2, 2);
+    text-decoration: line-through;
+}
+.jimin1{
+    position: absolute;
+    top: 1391px;
+    right: 24px;
+    text-align: center;
+    font-style: italic;
+    text-transform: capitalize; 
+    
+}
+
+.suga{
+    color: rgb(14, 2, 2);
+    text-decoration: line-through;
+}
+.suga1{
+    position: absolute;
+    top: 1725px;
+    right: 23px;
+    text-align: center;
+    font-style: italic;
+    text-transform: capitalize; 
+    
+}
+
+.rm{
+    color: rgb(14, 2, 2);
+    text-decoration: line-through;
+}
+.rm1{
+    position: absolute;
+    top: 2201px;
+    right: 30px;
+    text-align: center;
+    font-style: italic;
+    text-transform: capitalize; 
+    
+}
+
+.jhope{
+    color: rgb(14, 2, 2);
+    text-decoration: line-through;
+}
+.jhope1{
+    position: absolute;
+    top: 2660px;
+    right: 31px;
+    text-align: center;
+    font-style: italic;
+    text-transform: capitalize; 
+    
+}
+
+.jin{
+    color: rgb(14, 2, 2);
+    text-decoration: line-through;
+}
+.jin1{
+    position: absolute;
+    top: 3008px;
+    right: 56px;
+    text-align: center;
+    font-style: italic;
+    text-transform: capitalize; 
+    
+}
